@@ -7,4 +7,4 @@ It achieves this by applying the gzip algorithm to files of any type you chose a
 
 Any changes to the uncompressed file will be reflected in the compressed version the very next time it is requested, and saved for subsequent requests for that file. You will only need to flush any upstream caches, if you feel you need one.
 
-No cats, hamsters, or bunnies were harmed in the making of this application.
+No cats, hamsters, or bunnies were harmed in the making of this application. It is scheduled for beta release in two weeks.
