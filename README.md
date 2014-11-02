@@ -1,7 +1,7 @@
 ziphttpd
 ========
 
-The Ziphttpd web server is designed for serving static web files as fast as possible.
+The Ziphttpd (zippy) web server is designed for serving static web files as fast as possible.
 
 It achieves this by applying the gzip algorithm to files of any type you chose and storing the zipped files separtely, ready to be served next time someone wants that file.
 
